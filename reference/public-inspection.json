@@ -1,0 +1,950 @@
+{
+  "/": {
+    "title": "Maison Debrah | Luxury furniture & Timeless interiors",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Mastering the Art of Living"
+      },
+      {
+        "tag": "H3",
+        "text": "Discover by category"
+      },
+      {
+        "tag": "H2",
+        "text": "Furniture"
+      },
+      {
+        "tag": "H2",
+        "text": "Lighting"
+      },
+      {
+        "tag": "H2",
+        "text": "Décor"
+      },
+      {
+        "tag": "H3",
+        "text": "New arrivals"
+      },
+      {
+        "tag": "H3",
+        "text": "Kelmor"
+      },
+      {
+        "tag": "H3",
+        "text": "Oxler"
+      },
+      {
+        "tag": "H3",
+        "text": "Falion"
+      },
+      {
+        "tag": "H3",
+        "text": "Cyrno"
+      },
+      {
+        "tag": "H3",
+        "text": "Crafted with intention"
+      },
+      {
+        "tag": "H3",
+        "text": "Work with Maison Debrah"
+      },
+      {
+        "tag": "H3",
+        "text": "Interior professionals"
+      },
+      {
+        "tag": "H3",
+        "text": "Hospitality projects"
+      },
+      {
+        "tag": "H3",
+        "text": "Franchise partners"
+      },
+      {
+        "tag": "H3",
+        "text": "Experience Maison Debrah"
+      },
+      {
+        "tag": "H3",
+        "text": "Stories and events"
+      },
+      {
+        "tag": "H3",
+        "text": "Maison Debrah at China Furniture Fair"
+      },
+      {
+        "tag": "H3",
+        "text": "A new chapter in the Netherlands"
+      },
+      {
+        "tag": "H3",
+        "text": "Enter the world of Maison Debrah"
+      },
+      {
+        "tag": "H3",
+        "text": "Notify me"
+      },
+      {
+        "tag": "H1",
+        "text": "Request a brochure"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271300%27%20height%3D%27360%27%20viewBox%3D%270%200%201300%20360%27%3E%3Crect%20width%3D%271300%27%20height%3D%27360%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1300,
+        "height": 360
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "Oxler — Sofas & Sectionals by Maison Debrah",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "Falion — Dining chairs / Bar chairs by Maison Debrah",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "Cyrno — Side tables by Maison Debrah",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27960%27%20height%3D%27600%27%20viewBox%3D%270%200%20960%20600%27%3E%3Crect%20width%3D%27960%27%20height%3D%27600%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 960,
+        "height": 600
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_DIAP_RGB.svg",
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271300%27%20height%3D%27360%27%20viewBox%3D%270%200%201300%20360%27%3E%3Crect%20width%3D%271300%27%20height%3D%27360%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1300,
+        "height": 360
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/plugins/gtranslate/flags/svg/en.svg",
+        "alt": "en",
+        "width": 200,
+        "height": 150
+      }
+    ],
+    "backgrounds": [
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-02-3.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-01-1.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-02-1.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-03.jpg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/homepage-01-2.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/homepage-02-2.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/homepage-03-1.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/1200-x-1200.jpg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-02.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/08/10.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "fusion-column-inner-bg-image lazyloaded",
+        "background": "linear-gradient(100deg, rgba(42, 53, 47, 0.4) 30%, rgba(102, 93, 86, 0.1) 100%), url(\"https://maisondebrah.com/wp-content/uploads/2026/08/1.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "gt_float_switcher-arrow",
+        "background": "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>\")"
+      }
+    ]
+  },
+  "/the-collection/": {
+    "title": "Luxury furniture, Lighting & Décor | Maison Debrah",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "The Collection"
+      },
+      {
+        "tag": "H2",
+        "text": "The Collection"
+      },
+      {
+        "tag": "H2",
+        "text": "Mastering the Art of Living"
+      },
+      {
+        "tag": "H2",
+        "text": "Mastering the Art of Living"
+      },
+      {
+        "tag": "H3",
+        "text": "Where design becomes experience"
+      },
+      {
+        "tag": "H3",
+        "text": "Crafted for a lifetime"
+      },
+      {
+        "tag": "H3",
+        "text": "Furniture"
+      },
+      {
+        "tag": "H3",
+        "text": "Lighting"
+      },
+      {
+        "tag": "H3",
+        "text": "Décor"
+      },
+      {
+        "tag": "H3",
+        "text": "Explore the world of Maison Debrah"
+      },
+      {
+        "tag": "H2",
+        "text": "Maison Debrah. Since 1996, shaping refined interiors through craftsmanship, intention, and the art of living."
+      },
+      {
+        "tag": "H3",
+        "text": "Maison Debrah. Since 1996, shaping refined interiors through craftsmanship, intention, and the art of living."
+      },
+      {
+        "tag": "H3",
+        "text": "Notify me"
+      },
+      {
+        "tag": "H1",
+        "text": "Request a brochure"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271300%27%20height%3D%27360%27%20viewBox%3D%270%200%201300%20360%27%3E%3Crect%20width%3D%271300%27%20height%3D%27360%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1300,
+        "height": 360
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271020%27%20height%3D%271020%27%20viewBox%3D%270%200%201020%201020%27%3E%3Crect%20width%3D%271020%27%20height%3D%271020%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1020,
+        "height": 1020
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271067%27%20height%3D%271600%27%20viewBox%3D%270%200%201067%201600%27%3E%3Crect%20width%3D%271067%27%20height%3D%271600%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1067,
+        "height": 1600
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_DIAP_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/plugins/gtranslate/flags/svg/en.svg",
+        "alt": "en",
+        "width": 200,
+        "height": 150
+      }
+    ],
+    "backgrounds": [
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2025/09/Maison-Debrah-7.jpg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-02-1.jpg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Lighting.jpeg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-01-1.jpg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-03.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "gt_float_switcher-arrow",
+        "background": "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>\")"
+      }
+    ]
+  },
+  "/about-maison-debrah/": {
+    "title": "About Maison Debrah | Luxury interior design | Since 1996",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "About Maison Debrah"
+      },
+      {
+        "tag": "H2",
+        "text": "About Maison Debrah"
+      },
+      {
+        "tag": "H2",
+        "text": "Maison Debrah – Mastering the Art of Living"
+      },
+      {
+        "tag": "H3",
+        "text": "Maison Debrah – Mastering the Art of Living"
+      },
+      {
+        "tag": "H3",
+        "text": "A new era of luxury living"
+      },
+      {
+        "tag": "H3",
+        "text": "Full-scope interior excellence"
+      },
+      {
+        "tag": "H3",
+        "text": "Design beyond decoration"
+      },
+      {
+        "tag": "H3",
+        "text": "The Maison Debrah aesthetic: refined, bold & balanced"
+      },
+      {
+        "tag": "H3",
+        "text": "A world to experience"
+      },
+      {
+        "tag": "H3",
+        "text": "Maison Debrah. Since 1996, shaping refined interiors through craftsmanship, intention, and the art of living."
+      },
+      {
+        "tag": "H3",
+        "text": "Maison Debrah. Since 1996, shaping refined interiors through craftsmanship, intention, and the art of living."
+      },
+      {
+        "tag": "H3",
+        "text": "Notify me"
+      },
+      {
+        "tag": "H1",
+        "text": "Request a brochure"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271300%27%20height%3D%27360%27%20viewBox%3D%270%200%201300%20360%27%3E%3Crect%20width%3D%271300%27%20height%3D%27360%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1300,
+        "height": 360
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271200%27%20viewBox%3D%270%200%201200%201200%27%3E%3Crect%20width%3D%271200%27%20height%3D%271200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_DIAP_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/plugins/gtranslate/flags/svg/en.svg",
+        "alt": "en",
+        "width": 200,
+        "height": 150
+      }
+    ],
+    "backgrounds": [
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/09/1200-x-1200.jpg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-01-1.jpg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/09/Homepage-02-1.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "gt_float_switcher-arrow",
+        "background": "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>\")"
+      }
+    ]
+  },
+  "/hospitality/": {
+    "title": "Luxury hospitality interiors | Maison Debrah",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Hospitality at Maison Debrah"
+      },
+      {
+        "tag": "H2",
+        "text": "Hospitality at Maison Debrah"
+      },
+      {
+        "tag": "H2",
+        "text": "Creating Spaces That Inspire"
+      },
+      {
+        "tag": "H2",
+        "text": "Creating Spaces That Inspire"
+      },
+      {
+        "tag": "H2",
+        "text": "Our expertise"
+      },
+      {
+        "tag": "H2",
+        "text": "Full turnkey solutions for every project"
+      },
+      {
+        "tag": "H2",
+        "text": "Our expertise"
+      },
+      {
+        "tag": "H3",
+        "text": "Full turnkey solutions for every project"
+      },
+      {
+        "tag": "H3",
+        "text": "Why Maison Debrah for hospitality"
+      },
+      {
+        "tag": "H2",
+        "text": "Why Maison Debrah for hospitality"
+      },
+      {
+        "tag": "H3",
+        "text": "Planning your next project? Let’s bring your vision to life"
+      },
+      {
+        "tag": "H3",
+        "text": "Planning your next project? Let’s bring your vision to life"
+      },
+      {
+        "tag": "H3",
+        "text": "Notify me"
+      },
+      {
+        "tag": "H1",
+        "text": "Request a brochure"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271300%27%20height%3D%27360%27%20viewBox%3D%270%200%201300%20360%27%3E%3Crect%20width%3D%271300%27%20height%3D%27360%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1300,
+        "height": 360
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271500%27%20viewBox%3D%270%200%201200%201500%27%3E%3Crect%20width%3D%271200%27%20height%3D%271500%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1500
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271500%27%20viewBox%3D%270%200%201200%201500%27%3E%3Crect%20width%3D%271200%27%20height%3D%271500%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1500
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271500%27%20viewBox%3D%270%200%201200%201500%27%3E%3Crect%20width%3D%271200%27%20height%3D%271500%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1500
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%271500%27%20viewBox%3D%270%200%201200%201500%27%3E%3Crect%20width%3D%271200%27%20height%3D%271500%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1200,
+        "height": 1500
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_DIAP_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/plugins/gtranslate/flags/svg/en.svg",
+        "alt": "en",
+        "width": 200,
+        "height": 150
+      }
+    ],
+    "backgrounds": [
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column fusio",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/04/Maison-Debrah-Depuis-1996-17.jpg\")"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column fusion-em",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/04/Maison-Debrah-Depuis-1996-18.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "gt_float_switcher-arrow",
+        "background": "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>\")"
+      }
+    ]
+  },
+  "/franchise-shops/": {
+    "title": "Maison Debrah franchise shops worldwide",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Franchise shops"
+      },
+      {
+        "tag": "H2",
+        "text": "Franchise shops"
+      },
+      {
+        "tag": "H1",
+        "text": "Bring Maison Debrah to your market"
+      },
+      {
+        "tag": "H3",
+        "text": "Notify me"
+      },
+      {
+        "tag": "H1",
+        "text": "Request a brochure"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271300%27%20height%3D%27360%27%20viewBox%3D%270%200%201300%20360%27%3E%3Crect%20width%3D%271300%27%20height%3D%27360%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1300,
+        "height": 360
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/06/LemonShot-011-20260502_Final-400x267.jpg",
+        "alt": "",
+        "width": 366,
+        "height": 244
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/06/DSCF3049-400x296.jpg",
+        "alt": "",
+        "width": 366,
+        "height": 270
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/06/DSCF2503-400x320.jpg",
+        "alt": "",
+        "width": 366,
+        "height": 292
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/06/Venezuela-400x288.jpg",
+        "alt": "",
+        "width": 366,
+        "height": 263
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/06/creamy-salon_-400x270.jpg",
+        "alt": "",
+        "width": 366,
+        "height": 247
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/06/DSCF2467-400x267.jpg",
+        "alt": "",
+        "width": 366,
+        "height": 244
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_DIAP_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/plugins/gtranslate/flags/svg/en.svg",
+        "alt": "en",
+        "width": 200,
+        "height": 150
+      }
+    ],
+    "backgrounds": [
+      {
+        "tag": "SPAN",
+        "className": "gt_float_switcher-arrow",
+        "background": "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>\")"
+      }
+    ]
+  },
+  "/shop/": {
+    "title": "Luxury Furniture, lighting & décor | Maison Debrah",
+    "headings": [
+      {
+        "tag": "H3",
+        "text": "Get in contact"
+      },
+      {
+        "tag": "H3",
+        "text": "Notify me"
+      },
+      {
+        "tag": "H1",
+        "text": "Request a brochure"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271300%27%20height%3D%27360%27%20viewBox%3D%270%200%201300%20360%27%3E%3Crect%20width%3D%271300%27%20height%3D%27360%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "alt": "",
+        "width": 1300,
+        "height": 360
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/09/B25512-1-400x400.jpg",
+        "alt": "",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/08/DC242381-1-400x400.jpg",
+        "alt": "Alessara — Dining chairs / Bar chairs by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/08/RC240051-400x400.jpg",
+        "alt": "allegro — Armchairs by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/08/DC231221-1-400x400.jpg",
+        "alt": "Aloura — Dining chairs / Bar chairs by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/08/E24056B1-400x400.jpg",
+        "alt": "arc — Side tables by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/08/RC251161-400x400.jpg",
+        "alt": "arcadia — Armchairs by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/09/E26010-4-400x400.jpg",
+        "alt": "",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/03/CM25055D-1200x1200-1-400x400.jpg",
+        "alt": "Ardeno — Mirrors & Wall art by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/09/DB-DS202500735-400x400.jpg",
+        "alt": "Arviano — Table lamps by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2026/08/CS24235-1-400x400.jpg",
+        "alt": "",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/12/BN250751-400x400.jpg",
+        "alt": "Arvis — Dressers & Nightstands by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/12/SB25053-1-400x400.jpg",
+        "alt": "Arvis — Sideboards by Maison Debrah",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_DIAP_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/uploads/2025/07/MAISON_DEBRAH_LOGO_POS_RGB.svg",
+        "alt": "",
+        "width": 300,
+        "height": 83
+      },
+      {
+        "src": "https://maisondebrah.com/wp-content/plugins/gtranslate/flags/svg/en.svg",
+        "alt": "en",
+        "width": 200,
+        "height": 150
+      }
+    ],
+    "backgrounds": [
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-rollover",
+        "background": "linear-gradient(to top, rgba(5, 4, 27, 0.1) 0px, rgba(5, 4, 27, 0.1) 100%)"
+      },
+      {
+        "tag": "DIV",
+        "className": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background fus",
+        "background": "url(\"https://maisondebrah.com/wp-content/uploads/2026/04/Maison-Debrah-Depuis-1996-19.jpg\")"
+      },
+      {
+        "tag": "SPAN",
+        "className": "gt_float_switcher-arrow",
+        "background": "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>\")"
+      }
+    ]
+  }
+}
